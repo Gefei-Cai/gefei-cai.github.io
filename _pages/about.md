@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Gefei Cai"
+title: "Gefei Cai 蔡格非"
 author_profile: true
 redirect_from: 
   - /about/
