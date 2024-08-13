@@ -9,15 +9,17 @@ redirect_from:
 
 ## Notes Prepared for Seminars
 
-* Notes on the imaginary geometry (in Chinese)
-* Notes on the Gaussian free field and Liouville measure (in Chinese)
+* [Notes](https://github.com/Gefei-Cai/gefeicai.github.io/raw/master/files/虚几何_Imaginary_Geometry_.pdf) on the imaginary geometry (in Chinese)
+* [Notes](https://github.com/Gefei-Cai/gefeicai.github.io/raw/master/files/full.pdf) on the full scaling limit of critical planar percolation (in Chinese)
 
 
 ## Notes on Schramm-Loewner Evolution and 2D Critical Lattice Models (in Chinese)
 
-These are all collected in [Zhihu](https://www.zhihu.com/column/c_1296527465138434048), which are written during my undergraduate studies. Due to some other reasons, this Zhihu account no longer exists.
+These are all collected in [this](https://www.zhihu.com/column/c_1296527465138434048) Zhihu column, which are written during my undergraduate studies. The SLE notes can be viewed as a Chinese version of Prof. J. Miller's [lecture notes](https://www.statslab.cam.ac.uk/~jpm205/teaching/lent2019/sle_notes.pdf), and the notes on 2D critical lattice models are based on Prof. H. Wu's topic course in 2020 fall. A pdf version of the introduction on random planar maps can be downloaded [here](https://github.com/Gefei-Cai/gefeicai.github.io/raw/master/files/LQG_intro.pdf).
+
+Due to some other reasons, this Zhihu account has been banned and I can no longer edit these notes.
 
 
 ## Other Topics
 
-* My experience on undergraduate reasearch programs in probability
+* My experiences on undergraduate reasearch programs in probability ([slides](https://github.com/Gefei-Cai/gefeicai.github.io/raw/master/files/suggestions_slides.pdf), [words](https://github.com/Gefei-Cai/gefeicai.github.io/raw/master/files/suggestions_text.pdf)). Both are invited by the student union of SMS, PKU.
