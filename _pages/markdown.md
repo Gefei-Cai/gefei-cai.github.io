@@ -7,20 +7,11 @@ redirect_from:
   - /markdown.html
 ---
 
-## Locations of key files/directories
+## 조선의 공식문헌
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+* 조선로동당규약(2021년판). 이 판본에서 공산주의는 당의 최종목적으로 재탄생했으며 선대수령(김일성,김정일)들은 idology로만 등장한다.
+* 반동사상문화배격법(2022년판).
+* 조선문화어보호법(2022년판).
 
 ## Tips and hints
 
