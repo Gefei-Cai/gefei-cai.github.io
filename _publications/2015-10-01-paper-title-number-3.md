@@ -1,5 +1,5 @@
 ---
-title: "SLE Loop Measure and Liouville Quantum Gravity. In preparation."
+title: "SLE Loop Measure and Liouville Quantum Gravity."
 collection: publications
 category: manuscripts
 #permalink: /publication/2015-10-01-paper-title-number-3
