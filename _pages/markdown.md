@@ -15,7 +15,7 @@ redirect_from:
 
 ## Notes on Schramm-Loewner Evolution and 2D Critical Lattice Models (in Chinese)
 
-These are all collected in [this](https://www.zhihu.com/column/c_1296527465138434048) Zhihu column, which are written during my undergraduate studies. The SLE notes can be viewed as a Chinese version of Prof. J. Miller's [lecture notes](https://www.statslab.cam.ac.uk/~jpm205/teaching/lent2019/sle_notes.pdf), and the notes on 2D critical lattice models are based on Prof. H. Wu's topic course in 2020 fall. A pdf version of the introduction on random planar maps can be downloaded [here](https://github.com/Gefei-Cai/gefeicai.github.io/raw/master/files/LQG_intro.pdf).
+These are all collected in [this](https://www.zhihu.com/column/c_1296527465138434048) Zhihu column, which are written during my undergraduate studies. The SLE notes can be viewed as a paraphrase of Prof. J. Miller's [lecture notes](https://www.statslab.cam.ac.uk/~jpm205/teaching/lent2019/sle_notes.pdf) in Chinese, and the notes on 2D critical lattice models are based on Prof. H. Wu's topic course in 2020 fall. A pdf version of the introduction on random planar maps can be downloaded [here](https://github.com/Gefei-Cai/gefeicai.github.io/raw/master/files/LQG_intro.pdf).
 
 Due to some other reasons, this Zhihu account has been banned and I can no longer edit these notes.
 
