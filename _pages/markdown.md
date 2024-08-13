@@ -15,7 +15,7 @@ redirect_from:
 
 ## Notes on Schramm-Loewner Evolution and 2D Critical Lattice Models (in Chinese)
 
-These are all collected in [Zhihu](https://www.zhihu.com/column/c_1296527465138434048), which are written during my undergraduate studies.
+These are all collected in [Zhihu](https://www.zhihu.com/column/c_1296527465138434048), which are written during my undergraduate studies. Due to some other reasons, this Zhihu account no longer exists.
 
 
 ## Other Topics
