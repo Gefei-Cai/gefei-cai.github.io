@@ -1,10 +1,10 @@
 ---
-permalink: /markdown/
+permalink: /notes/
 title: "Notes"
 author_profile: true
 redirect_from: 
-  - /md/
-  - /markdown.html
+  - /nt/
+  - /notes.html
 ---
 
 ## Notes Prepared for Seminars
