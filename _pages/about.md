@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /homepage/
 title: "Gefei Cai 蔡格非"
 author_profile: true
 redirect_from: 
