@@ -23,5 +23,5 @@ Due to some other reasons, this Zhihu account has been banned and I can no longe
 ## Other Topics
 
 * My experiences on undergraduate reasearch programs in probability ([slides](https://github.com/Gefei-Cai/gefeicai.github.io/raw/master/files/suggestions_slides.pdf), [words](https://github.com/Gefei-Cai/gefeicai.github.io/raw/master/files/suggestions_text.pdf)). Both are invited by the student union of SMS, PKU in 2023.
-* [标度极限](https://mp.weixin.qq.com/s/y0wN6SJDP4ic6MaGbPI8Cw). An article on BICMR's WeChat official account written in memory of O. Schramm by X. Li and me.
-* [非0即1：网络中的数学](https://epaper.gmw.cn/gmrb/html/2021-05/13/nw.D110000gmrb_20210513_1-14.htm)(Guangming Daily, May 13, 2021, Page 14). A popular science article on percolation theory by Kelsey Houston-Edwards, translated into Chinese by Y. Feng, P. Yang and me.
+* [标度极限](https://mp.weixin.qq.com/s/y0wN6SJDP4ic6MaGbPI8Cw). An article on BICMR's WeChat official account written in memory of O. Schramm, by X. Li and me in 2022.
+* [非0即1：网络中的数学](https://epaper.gmw.cn/gmrb/html/2021-05/13/nw.D110000gmrb_20210513_1-14.htm)(Guangming Daily, May 13, 2021, Page 14). A popular science article on percolation theory by K. Houston-Edwards, translated into Chinese by Y. Feng, P. Yang and me.
