@@ -9,23 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Probability and Mathematical Satistics, Peking University, 2027 (expected)
-* B.S. in Mathematics and Applied Mathematics, Peking University, 2022
-
 Research Interests
 ======
 * Schramm-Loewner Evolution; Liouville quantum gravity;
 * Critical statistical physics models; Conformal field theory.
 
-Awards and Honors
-======
-* President Scholarship, Peking University, 2022
-* Excellent Graduate, Peking University, 2022
-
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* G. C., W. Li and T. Mesikepp. Quasisymmetric geometry of low-dimensional random spaces. Arxiv e-print arXiv:2412.06366.
+* M. Ang, G. C., X. Sun and B. Wu. Integrability of Conformal Loop Ensemble: Imaginary DOZZ and Beyond. Arxiv e-print arXiv:2107.01788v3.
+* M. Ang, G. C., X. Sun and B. Wu. SLE Loop Measure and Liouville Quantum Gravity. Arxiv e-print arXiv:2409.16547.
+* G. C. and X. Li. On Natural Measures of SLE- and CLE-Related Random Fractals. Annales de l'Institut Henri Poincaré, Probabilités et Statistiques, 60(4), 2297-2327, Nov. 2024.
