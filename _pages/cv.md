@@ -16,6 +16,7 @@ Research Interests
 
 Publications
 ======
+* G. C., Y. Gao. Uniqueness of generalized conformal restriction measures and Malliavin-Kontsevich-Suhov measures for c∈(0,1]. Arxiv e-print [arXiv:2502.05890](https://arxiv.org/abs/2502.05890).
 * G. C., W. Li and T. Mesikepp. Quasisymmetric geometry of low-dimensional random spaces. Arxiv e-print [arXiv:2412.06366](https://arxiv.org/abs/2412.06366).
 * M. Ang, G. C., X. Sun and B. Wu. Integrability of Conformal Loop Ensemble: Imaginary DOZZ and Beyond. Arxiv e-print [arXiv:2107.01788v3](https://arxiv.org/abs/2107.01788).
 * M. Ang, G. C., X. Sun and B. Wu. SLE Loop Measure and Liouville Quantum Gravity. Arxiv e-print [arXiv:2409.16547](https://arxiv.org/abs/2409.16547).
