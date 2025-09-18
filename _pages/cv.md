@@ -11,7 +11,7 @@ redirect_from:
 
 Research Interests
 ======
-* Schramm-Loewner Evolution; Liouville quantum gravity;
+* Brownian motion; Schramm-Loewner Evolution; Liouville quantum gravity;
 * Critical statistical physics models; Conformal field theory.
 
 Publications
