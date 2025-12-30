@@ -1,10 +1,10 @@
 ---
-permalink: /notes/
-title: "Notes"
+permalink: /talks/
+title: "Talks"
 author_profile: true
 redirect_from: 
-  - /nt/
-  - /notes.html
+  - /tk/
+  - /talks.html
 ---
 
 ## Notes on Schramm-Loewner Evolution and 2D Critical Lattice Models (in Chinese)
