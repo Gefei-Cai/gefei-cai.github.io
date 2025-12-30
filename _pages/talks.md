@@ -1,6 +1,6 @@
 ---
 permalink: /talks/
-#title: "Talks"
+title: "Talks"
 author_profile: true
 redirect_from: 
   - /tk/
