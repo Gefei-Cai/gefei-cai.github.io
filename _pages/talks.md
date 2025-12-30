@@ -13,5 +13,5 @@ redirect_from:
 * Prob/Stat Seminar, Lehigh University, Oct. 31, 2025.
 * MIT Probability seminar, Oct. 20, 2025.
 * Hong Kong Probability Seminar, HKUST, Oct. 29, 2024.
-* AMSS colloquia & seminars, CAS, Dec. 1, 2023.
+* AMSS colloquia & seminars, Chinese Academy of Sciences, Dec. 1, 2023.
 * YMSC Probability Seminar, Tsinghua University, Nov. 10, 2022.
