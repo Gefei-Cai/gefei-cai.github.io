@@ -16,6 +16,7 @@ Research Interests
 
 Publications
 ======
+* Morris Ang, Gefei Cai, Jesper Lykke Jacobsen, Rongvoram Nivesvivat, Paul Roux, Xin Sun, and Baojun Wu. Exact solution of three-point functions in critical loop models. [arXiv:2604.05503](https://arxiv.org/abs/2604.05503).
 * Gefei Cai. Boundary four-point connectivities of conformal loop ensembles. [arXiv:2603.28161](https://arxiv.org/abs/2603.28161).
 * Gefei Cai and Zhuoyan Xie. Backbone probability of planar Brownian motion. [arXiv:2512.09683](https://arxiv.org/abs/2512.09683).
 * Gefei Cai, Haoyu Liu, Baojun Wu, and Zijie Zhuang. Three-point connectivity constant for q-state Potts spin clusters. [arXiv:2510.05850](https://arxiv.org/abs/2510.05850).
