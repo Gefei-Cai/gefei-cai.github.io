@@ -16,6 +16,7 @@ Research Interests
 
 Publications
 ======
+* Gefei Cai, Xinyi Li, and Daisuke Shiraishi. Characterization and scaling limit of three-dimensional loop-erased random walk and random-walk loop-catchers. [arXiv:2610.12047](https://arxiv.org/abs/2610.12047)
 * Gefei Cai. The Brownian loop-catcher. [arXiv:2607.18070](https://arxiv.org/abs/2607.18070).
 * Morris Ang, Gefei Cai, Jesper Lykke Jacobsen, Rongvoram Nivesvivat, Paul Roux, Xin Sun, and Baojun Wu. Exact solution of three-point functions in critical loop models. [arXiv:2604.05503](https://arxiv.org/abs/2604.05503).
 * Gefei Cai. Boundary four-point connectivities of conformal loop ensembles. [arXiv:2603.28161](https://arxiv.org/abs/2603.28161).
@@ -27,3 +28,7 @@ Publications
 * Morris Ang, Gefei Cai, Xin Sun, and Baojun Wu. Integrability of Conformal Loop Ensemble: Imaginary DOZZ and Beyond. [arXiv:2107.01788v4](https://arxiv.org/abs/2107.01788). _J. Amer. Math. Soc._, to appear.
 * Morris Ang, Gefei Cai, Xin Sun, and Baojun Wu. SLE Loop Measure and Liouville Quantum Gravity. [arXiv:2409.16547](https://arxiv.org/abs/2409.16547).
 * Gefei Cai and Xinyi Li. On Natural Measures of SLE- and CLE-Related Random Fractals. [arxiv:2205.01584](https://arxiv.org/abs/2205.01584). _Ann. Inst. H. Poincaré Probab. Statist._, [60(4): 2297-2327](https://projecteuclid.org/journals/annales-de-linstitut-henri-poincare-probabilites-et-statistiques/volume-60/issue-4/On-natural-measures-of-SLE--and-CLE-related-random/10.1214/23-AIHP1412.short), Nov. 2024.
+
+Research Notes
+======
+* Gefei Cai. [A quadratic separation inequality for spanning trees](https://github.com/Gefei-Cai/gefei-cai.github.io/raw/master/files/log_concavity.pdf). AI-assisted manuscript. 
