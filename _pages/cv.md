@@ -31,4 +31,4 @@ Publications
 
 Research Notes
 ======
-* Gefei Cai. [A quadratic separation inequality for spanning trees](https://github.com/Gefei-Cai/gefei-cai.github.io/raw/master/files/log_concavity.pdf). AI-assisted manuscript. 
+* Gefei Cai. [A quadratic separation inequality for spanning trees](https://github.com/Gefei-Cai/gefei-cai.github.io/raw/master/files/log_concavity.pdf). AI-assisted manuscript, Oct. 2026.
