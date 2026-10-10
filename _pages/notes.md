@@ -1,6 +1,6 @@
 ---
 permalink: /notes/
-title: "Notes"
+title: "Expository Writing"
 author_profile: true
 redirect_from: 
   - /nt/
