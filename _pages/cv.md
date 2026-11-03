@@ -32,4 +32,4 @@ Publications
 
 Research Notes
 ======
-* Gefei Cai. Supplementary note on monochromatic $n\ge4$ arm exponents for critical planar percolation. [PDF](https://gefei-cai.github.io/files/Supplementary_note_on_monochromatic_n4_arm_exponents_for_critical_planar_percolation.pdf). _AI-assisted_.
+* Gefei Cai. Supplementary note on monochromatic $n\ge4$ arm exponents for critical planar percolation. [PDF](https://gefei-cai.github.io/files/Supplementary_note_monochromatic.pdf). _AI-assisted_.
