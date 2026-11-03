@@ -16,6 +16,7 @@ Research Interests
 
 Publications
 ======
+* Gefei Cai. A quadratic separation inequality for spanning trees. [arXiv:2610.22180](https://arxiv.org/pdf/2610.22180). _AI-assisted_.
 * Gefei Cai, Xinyi Li, and Daisuke Shiraishi. Characterization and scaling limit of three-dimensional loop-erased random walk and random-walk loop-catchers. [arXiv:2610.12047](https://arxiv.org/abs/2610.12047)
 * Gefei Cai. The Brownian loop-catcher. [arXiv:2607.18070](https://arxiv.org/abs/2607.18070).
 * Morris Ang, Gefei Cai, Jesper Lykke Jacobsen, Rongvoram Nivesvivat, Paul Roux, Xin Sun, and Baojun Wu. Exact solution of three-point functions in critical loop models. [arXiv:2604.05503](https://arxiv.org/abs/2604.05503).
@@ -31,4 +32,4 @@ Publications
 
 Research Notes
 ======
-* Gefei Cai. A quadratic separation inequality for spanning trees. [arXiv:2610.22180](https://arxiv.org/pdf/2610.22180). _AI-assisted manuscript_.
+* Gefei Cai. Supplementary note on monochromatic $n\ge4$ arm exponents for critical planar percolation. [PDF](https://gefei-cai.github.io/files/Supplementary_note_on_monochromatic_n4_arm_exponents_for_critical_planar_percolation.pdf). _AI-assisted_.
