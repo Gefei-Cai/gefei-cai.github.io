@@ -16,7 +16,9 @@ Research Interests
 
 Publications
 ======
-* Gefei Cai. A quadratic separation inequality for spanning trees. [arXiv:2610.22180](https://arxiv.org/pdf/2610.22180). _AI-assisted_.
+* Gefei Cai. Monochromatic arm exponents for critical planar percolation. [arXiv:2611.05101](https://arxiv.org/abs/2611.05101).
+* Gefei Cai, Xinyi Li, Daisuke Shiraishi, and Aoteng Xia. The boosted loop-erased random walk. [arXiv:2610.32821](https://arxiv.org/abs/2610.32821).
+* Gefei Cai. A quadratic ancestor inequality for spanning trees. [arXiv:2610.22180](https://arxiv.org/abs/2610.22180).
 * Gefei Cai, Xinyi Li, and Daisuke Shiraishi. Characterization and scaling limit of three-dimensional loop-erased random walk and random-walk loop-catchers. [arXiv:2610.12047](https://arxiv.org/abs/2610.12047)
 * Gefei Cai. The Brownian loop-catcher. [arXiv:2607.18070](https://arxiv.org/abs/2607.18070).
 * Morris Ang, Gefei Cai, Jesper Lykke Jacobsen, Rongvoram Nivesvivat, Paul Roux, Xin Sun, and Baojun Wu. Exact solution of three-point functions in critical loop models. [arXiv:2604.05503](https://arxiv.org/abs/2604.05503).
@@ -32,4 +34,4 @@ Publications
 
 Research Notes
 ======
-* Gefei Cai. Supplementary note on monochromatic $n\ge4$ arm exponents for critical planar percolation. [PDF](https://gefei-cai.github.io/files/Supplementary_note_monochromatic.pdf). _AI-assisted_.
+* Gefei Cai. Supplementary note on monochromatic $n\ge4$ arm exponents for critical planar percolation. [PDF](https://gefei-cai.github.io/files/Supplementary_note_monochromatic.pdf). _AI-assisted manuscript_.
